@@ -42,7 +42,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="OnJob">
-              <h2>OnJob</h2>
+              OnJob
             </Link>
             {/* Hamburger menu */}
             <div
